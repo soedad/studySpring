@@ -19,5 +19,6 @@ public class testMain {
 
         System.out.println(user2.getId() + "Searching success");
         System.out.println("Hello, Github!");
+        System.out.println("Hello, Git Pull!");
     }
 }
